@@ -1,2 +1,5 @@
 .DS_Store
 node_modules
+
+## yarn 대신 npm 사용으로 제거
+yarn.lock
