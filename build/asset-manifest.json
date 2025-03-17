@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portpolio-for-qa/static/css/main.cfe3f2a4.chunk.css",
+    "main.js": "/portpolio-for-qa/static/js/main.d9171417.chunk.js",
+    "main.js.map": "/portpolio-for-qa/static/js/main.d9171417.chunk.js.map",
+    "runtime-main.js": "/portpolio-for-qa/static/js/runtime-main.83b02b55.js",
+    "runtime-main.js.map": "/portpolio-for-qa/static/js/runtime-main.83b02b55.js.map",
+    "static/css/2.0a00179b.chunk.css": "/portpolio-for-qa/static/css/2.0a00179b.chunk.css",
+    "static/js/2.51070286.chunk.js": "/portpolio-for-qa/static/js/2.51070286.chunk.js",
+    "static/js/2.51070286.chunk.js.map": "/portpolio-for-qa/static/js/2.51070286.chunk.js.map",
+    "static/js/3.c3d800f6.chunk.js": "/portpolio-for-qa/static/js/3.c3d800f6.chunk.js",
+    "static/js/3.c3d800f6.chunk.js.map": "/portpolio-for-qa/static/js/3.c3d800f6.chunk.js.map",
+    "index.html": "/portpolio-for-qa/index.html",
+    "static/css/2.0a00179b.chunk.css.map": "/portpolio-for-qa/static/css/2.0a00179b.chunk.css.map",
+    "static/css/main.cfe3f2a4.chunk.css.map": "/portpolio-for-qa/static/css/main.cfe3f2a4.chunk.css.map",
+    "static/js/2.51070286.chunk.js.LICENSE.txt": "/portpolio-for-qa/static/js/2.51070286.chunk.js.LICENSE.txt",
+    "static/media/blog-01.be96ed55.jpg": "/portpolio-for-qa/static/media/blog-01.be96ed55.jpg",
+    "static/media/blog-02.f2f63464.jpg": "/portpolio-for-qa/static/media/blog-02.f2f63464.jpg",
+    "static/media/blog-03.e1ff56f6.jpg": "/portpolio-for-qa/static/media/blog-03.e1ff56f6.jpg",
+    "static/media/blog-04.344e72ef.jpg": "/portpolio-for-qa/static/media/blog-04.344e72ef.jpg",
+    "static/media/cover-image.344e72ef.jpg": "/portpolio-for-qa/static/media/cover-image.344e72ef.jpg",
+    "static/media/profile.c1f8f6e0.jpg": "/portpolio-for-qa/static/media/profile.c1f8f6e0.jpg",
+    "static/media/project-01.945a656a.jpg": "/portpolio-for-qa/static/media/project-01.945a656a.jpg",
+    "static/media/project-02.919ee041.jpg": "/portpolio-for-qa/static/media/project-02.919ee041.jpg",
+    "static/media/project-03.6be706b5.jpg": "/portpolio-for-qa/static/media/project-03.6be706b5.jpg",
+    "static/media/project-04.d6a220f2.jpg": "/portpolio-for-qa/static/media/project-04.d6a220f2.jpg",
+    "static/media/project-05.f5f1d633.jpg": "/portpolio-for-qa/static/media/project-05.f5f1d633.jpg",
+    "static/media/project-06.50ac7949.jpg": "/portpolio-for-qa/static/media/project-06.50ac7949.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83b02b55.js",
+    "static/css/2.0a00179b.chunk.css",
+    "static/js/2.51070286.chunk.js",
+    "static/css/main.cfe3f2a4.chunk.css",
+    "static/js/main.d9171417.chunk.js"
+  ]
+}
