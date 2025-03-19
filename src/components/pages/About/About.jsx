@@ -9,25 +9,36 @@ const About = () => {
           <div className="md:mx-4">
             <h3 className="text-2xl text-gray-800 font-bold mb-4">Who am I?</h3>
             <p className="text-sm text-gray-400 leading-6 mb-3">
-              IT 분야에서 10여년 넘게 다양한 도메인에서 경력을 쌓은 정병오 라고 합니다.
-              모바일, 플랫폼, 블록체인 등의 SW 검증을 했고, 통신사 기지국 운영, 그리고 프로토타입의 개발 경험과 개발자교육을 통해 프론트엔드, 백엔드 시스템간의 이해를 하고 있습니다.
-              모바일기기는 통신사 요구사항을 기준으로 하는 피쳐폰 부터 안드로이드 단말까지 망연동과 WIPI TEST, GPS, Callflow 등 기능 뿐만 아니라 네트워크 전반에 대한 검증 경험이 있으며,
-              플랫폼은 모바일플랫폼, 이커머스, 핀테크등 다양한 형태의 플랫폼 서비스 경험을 가지고, 테스트 뿐만 아니라 개발 설계 부터 QA 관련 문서 작성, 테스트 환경 구축, UI기능 및 성능 검증, 결과에 대한 리포트 고객에게 제품 설명 및 인수 테스트 까지 제안부터 계약 종료까지 필요한 전반적인 과정에 참여한 경험이 있습니다.
-              개발 능력은 초급단계 수준으로 Profile, Setting등의 API 컨트롤러 개발을 했었고, 개발자 교육을 통해 자바와 스프링부트를 이용한 백엔드/서버 개발 및 React와 bootstrap을 활용한 프론트엔드 개발 과정에도 참여 했습니다.
-              전문적인 수준은 아니지만 Jmeter를 이용한 성능측정, Postman을 이용한 API 자동화, Selenium을 서비스 자동화 제작 경험을 가지고 있습니다. 최근에는 ChatGPT를 이용하여 PRA와 Python으로 다양한 자동화시스템 적용 교육을 받았습니다.
+              모바일 기기, 기지국 시스템, 웹/앱 서비스, 핀테크, 정산 플랫폼, 블록체인 등 다양한 도메인에서 테스트, 검증, 운영, 개발까지 폭넓은 경험을 쌓아왔습니다.
+              이를 바탕으로 고품질의 제품을 출시하고, 검증 과정을 보다 효율적으로 개선하는 방법을 끊임없이 고민하고 실현하고 있습니다.
+              저는 QA가 프로젝트의 시작부터 끝까지 함께해야 한다고 생각합니다. 
+              설계부터 출시까지, 개발 프로세스 전반에서 QA 전략을 수립하고, 계획·설계·구현·테스트·결과 분석까지의 반복적인 과정이 체계적으로 녹아들 수 있도록 노력 하고 있습니다.
+              또한, 반복되는 작업의 효율성을 높이기 위해 자동화 환경을 구축하고 있습니다. 단순한 UI 테스트뿐만 아니라, 제품 내 다양한 자원을 활용해 검증 활동을 최적화하는 데 집중하고 있습니다. 
+              이를 위해 다양한 툴과 개발 언어를 학습하며 능동적으로 블로그나 커뮤니티에서 활동 하고 있습니다.
             </p>
             <p className="text-sm text-gray-400 leading-6 mb-3">
-            I have over 10 years of experience in various domains in the IT field.
-            I have verified SW such as mobile, platform, and blockchain, and I have an understanding of front-end and back-end systems through experience in operating base stations for telecommunication companies, developing prototypes, and developer training.
-            For mobile devices, I have experience in verifying not only network connectivity and WIPI TEST, GPS, and Callflow functions, but also the entire network, from feature phones to Android terminals based on telecommunication company requirements.
-            For platforms, I have experience in various forms of platform services such as mobile platforms, e-commerce, and fintech. In addition to testing, I have experience in developing design, writing QA-related documents, building test environments, verifying UI functions and performance, and reporting results to customers, explaining products to them, and accepting tests, and participating in the entire process from proposal to contract termination.
-            My development skills are at the beginner level, and I have developed API controllers such as Profile and Setting, and through developer training, I have participated in back-end/server development using Java and Spring Boot, and front-end development using React and Bootstrap. Although not at a professional level, I have experience in performance measurement using Jmeter, API automation using Postman, and service automation production using Selenium. Recently, I received training in applying various automation systems using PRA and Python using ChatGPT.
+              We have gained extensive experience in testing, verification, operation, and development in various domains such as mobile devices, base station systems, web/app services, fintech, settlement platforms, and blockchains.
+              Based on this, we are constantly thinking about and implementing ways to release high-quality products and improve the verification process more efficiently.
+              I believe that QA should be with the project from the beginning to the end.
+              We are establishing QA strategies throughout the development process, from design to release, and are working to systematically integrate the repetitive processes from planning, design, implementation, testing, and result analysis.
+              In addition, we are building an automation environment to increase the efficiency of repetitive tasks. In addition to simple UI testing, we are focusing on optimizing verification activities by utilizing various resources within the product.
+              To this end, we are learning various tools and development languages ​​and actively participating in blogs and communities.
+            </p>
+            <p className="text-lg text-gray-400 leading-6 mb-3">
+              🖇️ 자세한 내용 다운로드 📁
+
             </p>
             <p>
-              <a href="https://drive.google.com/file/d/1aSs4FaEItPETTjBebivSlCVQZbj7oFC-/view?usp=drive_link"
-                className="inline-block mt-3 mb-3 rounded bg-purple-600 text-center border-0 py-2 px-6 text-white leading-7 tracking-wide hover:bg-purple-800"
+              <a href="https://drive.google.com/file/d/1YIUrkPXS3BPjilLk-FYtiKI7ZPb1S0cO/view?usp=sharing"
+                className="inline-block mt-3 mb-3 rounded bg-blue-600 text-center border-0 py-2 px-6 text-white leading-7 tracking-wide hover:bg-purple-800"
                 download="Resume" target="_blank" >
-                정병오의 자세한 소개서 다운받기
+                📄 이력서.pdf
+              </a>
+              <span>&nbsp;&nbsp;</span>
+              <a href="https://drive.google.com/file/d/1m_Gvccds90I_Kh1Lw5oNd7KjF1Gqi5t6/view?usp=sharing"
+                className="inline-block mt-3 mb-3 rounded bg-yellow-600 text-center border-0 py-2 px-6 text-white leading-7 tracking-wide hover:bg-purple-800"
+                download="Resume" target="_blank" >
+                📄 자기소개서.pdf
               </a>
             </p>
           </div>

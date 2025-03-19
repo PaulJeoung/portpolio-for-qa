@@ -14,7 +14,9 @@
 
 - npm run build
 
-- such like below log, if npm start... activate "export NODE_OPTIONS=--openssl-legacy-provider"
+- such like below log, if npm start... activate bleow
+
+  - export NODE_OPTIONS=--openssl-legacy-provider
 
 ```
 Starting the development server...
