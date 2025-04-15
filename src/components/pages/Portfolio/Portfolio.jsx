@@ -5,6 +5,7 @@ import image3 from "../../../images/portfolio/project-03.jpg";
 import image4 from "../../../images/portfolio/project-04.jpg";
 import image5 from "../../../images/portfolio/project-05.jpg";
 import image6 from "../../../images/portfolio/project-06.jpg";
+import image7 from "../../../images/portfolio/project-07.jpg";
 
 import PortfolioItem from "./PortfolioItem";
 
@@ -56,6 +57,14 @@ const portfolioData = [
     link: "https://passorfail.tistory.com/184",
     description:
       "파이썬을 이용한 데이터 크롤링 후 데이터 정제",
+  },
+  {
+    id: 7,
+    image: image7,
+    title: "API 테스트용 로컬 서버",
+    link: "https://passorfail.tistory.com/187",
+    description:
+      "연습용 Restful API 구현 (로그인 기능 추가중), API 테스트 및 Selenum 자동화 기능 연습",
   },
 ];
 
