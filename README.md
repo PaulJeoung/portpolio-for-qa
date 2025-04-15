@@ -53,13 +53,17 @@ Node.js v23.5.0
 
 - postcss 다운그레이드
 
-  1. rm -rf node_modules package-lock.json
+  - rm -rf node_modules package-lock.json
 
-  2. npm install postcss@7 autoprefixer@9
+  - npm install postcss@7 autoprefixer@9
 
-  3. tailwindcss 버전확인 (@tailwindcss/postcss7-compat)
+  - npm install --legacy-peer-deps
 
-  4. npm install 재설치
+  - npm install @babel/core@^7.16.0 @babel/preset-react@^7.16.0
+
+  - tailwindcss 버전확인 (@tailwindcss/postcss7-compat)
+
+  - npm install 재설치
 
 ### origin code and reference to
 

@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@babel/core": "^7.26.10",
+    "@babel/preset-react": "^7.26.3",
     "@craco/craco": "^6.4.5",
     "@fullhuman/postcss-purgecss": "^7.0.2",
     "@testing-library/jest-dom": "^5.11.4",
@@ -26,7 +28,7 @@
   },
   "scripts": {
     "start": "craco start",
-    "build": "npm install --legacy-peer-deps && craco build",
+    "build": "craco build",
     "test": "craco test",
     "eject": "react-scripts eject"
   },
