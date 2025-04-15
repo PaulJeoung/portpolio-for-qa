@@ -49,29 +49,17 @@ Node.js v23.5.0
 
 ```
 
-### gitpage usable
+### Netilfy Build Error 발생 시
 
-- package.json need to modified
+- postcss 다운그레이드
 
-```
-"scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-  },
-  "homepage": "https://pauljeoung.github.io/portpolio-for-qa/",
-```
+  1. rm -rf node_modules package-lock.json
 
-- npm install gh-pages --save-dev
+  2. npm install postcss@7 autoprefixer@9
 
-- npm install @babel/core@latest @babel/preset-env@latest @babel/preset-react@latest --save-dev
+  3. tailwindcss 버전확인 (@tailwindcss/postcss7-compat)
 
-- npm run build
-
-- npm run deploy
+  4. npm install 재설치
 
 ### origin code and reference to
 
