@@ -6,7 +6,6 @@
     "@babel/core": "^7.26.10",
     "@babel/preset-react": "^7.26.3",
     "@craco/craco": "^6.4.5",
-    "@fullhuman/postcss-purgecss": "^7.0.2",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
@@ -52,7 +51,6 @@
   },
   "devDependencies": {
     "postcss": "^7.0.39",
-    "postcss-loader": "^6.2.1",
-    "postcss-purgecss": "^5.0.0"
+    "postcss-loader": "^6.2.1"
   }
 }
