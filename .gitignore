@@ -1,6 +1,18 @@
+# mac에서 생성되는 폴더
 .DS_Store
-node_modules
-build
 
-## yarn 대신 npm 사용으로 제거
+# Node modules
+node_modules/
+
+# npm package-lock file (재설정 파일)
+package-lock.json
+
+# Build output
+/build
+
+# yarn 대신 npm 사용으로 제거
 yarn.lock
+
+# logs
+logs/
+*.log

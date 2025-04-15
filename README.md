@@ -49,9 +49,24 @@ Node.js v23.5.0
 
 ```
 
-### Netilfy Build Error 발생 시
+### For Netilfy Build 
 
-- netlify.toml 파일 / 에 있는지 확인
+1. postcss-safe-parser 제거
+
+  - npm uninstall postcss-safe-parser
+
+2. postcss.config.js 파일 추가
+
+3. netlify.toml 파일 추가
+
+4. 모듈, package 제거 후 재 설치
+
+  - rm -rf node_modules package-lock.json
+
+  - npm install --legacy-peer-deps
+
+  - npm run build
+
 
 - postcss 다운그레이드
 
