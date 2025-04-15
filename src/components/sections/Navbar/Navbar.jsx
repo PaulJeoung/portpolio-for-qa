@@ -24,7 +24,7 @@ const navbarData = [
   },
   {
     id: 3,
-    title: "💼 업무내용",
+    title: "💼 포트폴리오",
     to: "/works",
   },
   // {

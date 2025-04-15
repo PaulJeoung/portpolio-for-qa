@@ -25,19 +25,19 @@ const About = () => {
               To this end, we are learning various tools and development languages ​​and actively participating in blogs and communities.
             </p>
             <p className="text-lg text-gray-400 leading-6 mb-3">
-              🖇️ 자세한 내용 다운로드 📁
+              이력서 & 자기소개서 다운로드 🖇️ 
 
             </p>
             <p>
-              <a href="https://drive.google.com/file/d/1YIUrkPXS3BPjilLk-FYtiKI7ZPb1S0cO/view?usp=sharing"
+              <a href="https://drive.google.com/file/d/1TetU34RUef_ZJPTQ4cNfXRD_3BKvfjHO/view?usp=sharing"
                 className="inline-block mt-3 mb-3 rounded bg-blue-600 text-center border-0 py-2 px-6 text-white leading-7 tracking-wide hover:bg-purple-800"
-                download="Resume" target="_blank" >
+                download="Resume" target="_blank" rel="noopener noreferrer">
                 📄 이력서.pdf
               </a>
               <span>&nbsp;&nbsp;</span>
-              <a href="https://drive.google.com/file/d/1m_Gvccds90I_Kh1Lw5oNd7KjF1Gqi5t6/view?usp=sharing"
+              <a href="https://drive.google.com/file/d/1qhwwXh50Qykzw1IzDk6XOFxLQ3JggJTb/view?usp=sharing"
                 className="inline-block mt-3 mb-3 rounded bg-yellow-600 text-center border-0 py-2 px-6 text-white leading-7 tracking-wide hover:bg-purple-800"
-                download="Resume" target="_blank" >
+                download="Resume" target="_blank" rel="noopener noreferrer">
                 📄 자기소개서.pdf
               </a>
             </p>

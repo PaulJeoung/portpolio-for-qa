@@ -1,15 +1,7 @@
 import React from "react";
 import {
-  FaBehance,
-  FaDribbble,
-  FaFacebookF,
   FaGithub,
-  FaInstagram,
-  FaLinkedinIn,
-  FaSkype,
-  FaTwitter,
   FaBlog,
-  FaPencilAlt,
 } from "react-icons/fa";
 import profile from "../../../images/profile.jpg";
 
@@ -73,7 +65,7 @@ const Sidebar = () => {
         <a
           href="https://open.kakao.com/o/sylSc0lh"
           className="inline-block mb-3 rounded bg-purple-600 text-center border-0 py-2 px-6 text-white leading-7 tracking-wide hover:bg-purple-800"
-          download="Resume" target="_blank"
+          download="Resume" target="_blank" rel="noopener noreferrer"
         >
           카카오톡 오픈채팅
         </a>
