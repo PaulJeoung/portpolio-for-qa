@@ -50,6 +50,8 @@
   },
   "devDependencies": {
     "postcss": "^7.0.39",
-    "postcss-loader": "^6.2.1"
+    "postcss-loader": "^6.2.1",
+    "webpack": "^5.99.5",
+    "webpack-cli": "^6.0.1"
   }
 }
