@@ -51,6 +51,8 @@ Node.js v23.5.0
 
 ### Netilfy Build Error 발생 시
 
+- netlify.toml 파일 / 에 있는지 확인
+
 - postcss 다운그레이드
 
   - rm -rf node_modules package-lock.json
